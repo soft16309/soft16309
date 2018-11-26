@@ -1,7 +1,11 @@
-java发送手机验证码参考博客
+1、java发送手机验证码参考博客
 
 https://blog.csdn.net/qq_39135287/article/details/80907606
 
 https://blog.csdn.net/qq_41430630/article/details/79774099
 
 https://zhidao.baidu.com/question/809092880439161332.html
+
+2、发送qq邮箱验证码
+
+https://blog.csdn.net/Rookie690/article/details/79127270
